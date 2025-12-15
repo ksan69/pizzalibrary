@@ -14,7 +14,7 @@
   ],
   "autoload": {
     "psr-4": {
-      "PizzaProduct\\": "src/"
+      "PizzaLibrary\\": "src/"
     }
   },
   "require-dev": {

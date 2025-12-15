@@ -1,7 +1,7 @@
 <?php 
 declare(strict_types=1);
 
-namespace PizzaProduct;
+namespace PizzaLibrary;
 
 abstract class PizzaStore
 {
